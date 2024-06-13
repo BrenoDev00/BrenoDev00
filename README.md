@@ -30,8 +30,9 @@
 ###
 
 <div align="center">
- <a href="https://www.linkedin.com/in/breno-silva-gon%C3%A7alves-872a30231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4Gc1fDEMQaSNRl288tlaYg%3D%3D"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
- <a href="brenosilvagoncalves12@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /></a>
+<div> <a href="https://www.linkedin.com/in/breno-silva-gon%C3%A7alves-872a30231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4Gc1fDEMQaSNRl288tlaYg%3D%3D"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
+  </div>
+ <div><a href="brenosilvagoncalves12@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  /></a></div>
 </div>
 
 ###
