@@ -1,3 +1,4 @@
+<div style="background-color: black;">
 <div align="center">
   <img src="https://profile-counter.glitch.me/BrenoDev00/count.svg?"  />
 </div>
@@ -42,3 +43,4 @@
 </div>
 
 ###
+</div>
