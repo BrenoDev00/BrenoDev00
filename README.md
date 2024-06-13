@@ -4,7 +4,9 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<h1>👋 Olá, eu sou o Breno</h1>
+<p>- 👀 Interessado principalmente em desenvolvimento Front-End.</p>
+<p>- 🌱 Atualmente estou estudando HTML5, CSS3 e Javascript para desenvolver sistemas web. Além disso, estudo Python nas horas vagas para integrar no Back-End de sistemas.</p>
 
 ###
 
