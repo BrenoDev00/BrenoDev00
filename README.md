@@ -6,7 +6,7 @@
 
 <h1>👋 Olá, eu sou o Breno</h1>
 <p>- 👀 Estudante de desenvolvimento Front-End.</p>
-<p>- 🌱 Atualmente, estou estudando HTML5, CSS3 e Javascript para desenvolver sistemas web.</p>
+<p>- 🌱 Atualmente, estou estudando HTML5, CSS3 e Javascript para desenvolver sites e sistemas web.</p>
 <p>- ✉️ E-mail: brenosilvagoncalves12@gmail.com</p>
 
 ###
