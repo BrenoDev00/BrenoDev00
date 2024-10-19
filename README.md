@@ -4,20 +4,34 @@
 
 ###
 
-<h1>👋 Olá, eu sou o Breno</h1>
-<p>- 👀 Estudante de desenvolvimento Front-End.</p>
-<p>- 🌱 Atualmente, estou estudando HTML5, CSS3 e Javascript para desenvolver sites e sistemas web.</p>
-<p>- ✉️ E-mail: brenosilvagoncalves12@gmail.com</p>
+<h1 align="left">👋 Olá, eu sou o Breno</h1>
 
 ###
 
-<div align="center">
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨Estudante de desenvolvimento Front-End. Cursando Análise e Desenvolvimento de Sistemas.<br><br>📚  Atualmente, estou estudando HTML5, CSS3 e Javascript para desenvolver sites e sistemas web.</p>
+
+###
+
+<h2 align="left">Principais Tecnologias e Ferramentas</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -29,9 +43,14 @@
 
 ###
 
-<div align="center">
-<div> <a href="https://www.linkedin.com/in/breno-silva-gon%C3%A7alves-872a30231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4Gc1fDEMQaSNRl288tlaYg%3D%3D"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  /></a>
-  </div>
+<h2 align="left">Contato</h2>
+
+###
+
+<div align="left">
+  <a href="linkedin.com/in/breno-gonçalves-872a30231" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
+  
+ <a href="brenosilvagoncalves12@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
 </div>
 
 ###
