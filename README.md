@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨Estudante de desenvolvimento Front-End. Cursando Análise e Desenvolvimento de Sistemas.<br><br>📚  Atualmente, estou estudando HTML5, CSS3 e Javascript para desenvolver sites e sistemas web.</p>
+<p align="left">✨Estudante de desenvolvimento Front-End. Cursando Análise e Desenvolvimento de Sistemas.<br><br>📚  Atualmente, estou estudando HTML5, CSS3 e Javascript para desenvolver sites e sistemas web.<br><br>📌 Email: brenosilvagoncalves12@gmail.com<br><br>📌 Linkedin: linkedin.com/in/breno-gonçalves-872a30231</p>
 
 ###
 
@@ -43,14 +43,4 @@
 
 ###
 
-<h2 align="left">Contato</h2>
 
-###
-
-<div align="left">
-  <a href="linkedin.com/in/breno-gonçalves-872a30231" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-  
- <a href="brenosilvagoncalves12@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a>
-</div>
-
-###
