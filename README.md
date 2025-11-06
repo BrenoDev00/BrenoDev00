@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨Desenvolvedor Front-End. Cursando Análise e Desenvolvimento de Sistemas.<br><br>📚 Possuo experiência com TypeScript, React.JS e Tailwind CSS. Também estou estudando Back-End com Node.JS e banco de dados relacional (PostgreSQL).<br><br>📌 Email: brenosilvagoncalves12@gmail.com<br><br>📌 Linkedin: linkedin.com/in/breno-gonçalves-872a30231</p>
+<p align="left">✨Desenvolvedor Full Stack. Cursando Análise e Desenvolvimento de Sistemas.<br><br>📚 Possuo experiência com TypeScript, Angular, Node.JS, PostgreSQL, React.JS e Tailwind CSS.<br><br>📌 Email: brenosilvagoncalves12@gmail.com<br><br>📌 Linkedin: linkedin.com/in/breno-gonçalves-872a30231</p>
 
 ###
 
