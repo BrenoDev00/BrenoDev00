@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨Desenvolvedor Full Stack. Cursando Análise e Desenvolvimento de Sistemas.<br><br>📚 Possuo experiência com TypeScript, Angular, Node.JS, PostgreSQL, React.JS e Tailwind CSS.<br><br>📌 Email: brenosilvagoncalves12@gmail.com<br><br>📌 Linkedin: linkedin.com/in/breno-gonçalves-872a30231</p>
+<p align="left">✨Desenvolvedor Full Stack. Graduado em Análise e Desenvolvimento de Sistemas.<br><br>📚 Possuo experiência com TypeScript, React.JS/Next.JS, Angular, Node.JS, PostgreSQL e Git.<br><br>📌 Email: brenosilvagoncalves12@gmail.com<br><br>📌 Linkedin: linkedin.com/in/breno-gonçalves-872a30231</p>
 
 ###
 
@@ -26,8 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" alt="azuredevops logo"  />
