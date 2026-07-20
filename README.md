@@ -8,7 +8,13 @@
 
 ###
 
-<p align="left">✨Desenvolvedor Full Stack. Graduado em Análise e Desenvolvimento de Sistemas.<br><br>📚 Possuo experiência com TypeScript, React.JS/Next.JS, Angular, Node.JS, PostgreSQL e Git.<br><br>📌 Email: brenosilvagoncalves12@gmail.com<br><br>📌 Linkedin: linkedin.com/in/breno-gonçalves-872a30231</p>
+<p align="left">✨Desenvolvedor Full Stack. Graduado em Análise e Desenvolvimento de Sistemas.
+<br><br>
+📚 Possuo experiência com TypeScript, React.JS/Next.JS, Angular, Node.JS, PostgreSQL e Git.
+<br><br>
+📚 Atualmente, estou estudando Java, Spring e ferramentas utilizadas no ecossistema Java.
+<br><br>
+📌 Email: brenosilvagoncalves12@gmail.com<br><br>📌 Linkedin: linkedin.com/in/breno-gonçalves-872a30231</p>
 
 ###
 
@@ -55,17 +61,5 @@
  
 </div>
 
-###
-
-###
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenoDev00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenoDev00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 
